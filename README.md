@@ -5,3 +5,4 @@ Features:
 • Projects Section to showcase work
 • Blog Section for writing posts
 • Contact Form for inquiries
+![alt text](image-2.png)
